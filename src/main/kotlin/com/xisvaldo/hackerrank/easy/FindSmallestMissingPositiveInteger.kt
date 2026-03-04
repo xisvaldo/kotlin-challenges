@@ -37,5 +37,5 @@ class FindSmallestMissingPositiveInteger {
 	        if (numbers[j] != j + 1) return j + 1
 	    }
 	    return numbers.size + 1
-		}
+	}
 }
